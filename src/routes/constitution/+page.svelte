@@ -1,7 +1,6 @@
 <script>
     let one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen;
     export let data;
-    let {dues} = data;
 </script>
 
 <div class="constitution">
@@ -55,7 +54,7 @@
 
     <h2 class="sectionHeading" bind:this={five}>4. League Setup</h2>
     <div class="subBlock">
-        <p><strong>A. League Fees:</strong> Current entry fee is ${dues}. Fees are due prior to the rookie draft. Failure to pay results in draft pick penalties or an automatic ban.</p>
+        <p><strong>A. League Fees:</strong> Current entry fee is $50. Fees are due prior to the rookie draft. Failure to pay results in draft pick penalties or an automatic ban.</p>
         <p><strong>B. Rosters:</strong> 28 active spots, 5 taxi spots, and 5 IR spots. Lineup changes require a majority vote and a two-season "grace period" before implementation.</p>
         <p><strong>C. Scoring:</strong> 1.0 PPR. Full rules are available in the Sleeper settings.</p>
     </div>
