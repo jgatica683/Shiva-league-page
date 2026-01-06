@@ -1,3 +1,9 @@
+<script>
+    let one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen;
+    export let data;
+    let {dues} = data;
+</script>
+
 <div class="constitution">
     <h1 bind:this={one}>SHIVA DYNASTY FOOTBALL LEAGUE CONSTITUTION</h1>
 
